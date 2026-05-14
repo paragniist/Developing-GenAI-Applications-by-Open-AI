@@ -105,27 +105,7 @@ An exploration of upcoming trends and the trajectory of the NLP field.
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone this repository
-```bash
-   git clone https://github.com/your-username/training-your-own-chatbot.git
-   cd training-your-own-chatbot
-```
-
-2. Install dependencies
-```bash
-   pip install openai
-```
-
-3. Set your API key
-```bash
-   export OPENAI_API_KEY=your_api_key_here
-```
-
-4. Start with Module 1 and work through the modules in order
-
----
 
 ## ⚠️ Disclaimer
 
